@@ -1,1 +1,1 @@
-alert('Hello theregit ')
+alert('Hello theregit');
